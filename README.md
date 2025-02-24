@@ -39,8 +39,8 @@ All the tests were done with this specs:
 - Mid-End: Modded Minecraft 1.21.4 - 608 fps (**+111%**)
 [Image](./Low_MidEnd.png)
 
-- Low-End: Vanilla Minecraft 1.21.4 - 245 fps
-- Low-End:
+- Low-End: Vanilla Minecraft 1.21.4 - ~~~ fps
+- Low-End: Modded Minecraft 1.21.4 - 245 fps
 
 ### High Settings
 
@@ -52,8 +52,8 @@ All the tests were done with this specs:
 - Mid-End: Modded Minecraft 1.21.4 - 187 fps (**+46%**)
   [Image](./High_MidEnd.png)
 
-- Low-End: Vanilla Minecraft 1.21.4 - 89 fps
-- Low-End: Modded Minecraft 1.21.4 -
+- Low-End: Vanilla Minecraft 1.21.4 - ~~~ fps
+- Low-End: Modded Minecraft 1.21.4 - 89 fps
 
 
 
