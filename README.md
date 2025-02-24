@@ -9,14 +9,15 @@ All the tests were done with this specs:
 - RAM: 32GB DDR4 @ 2400MHz
 - OS: Windows 11 Pro 64-bit
 
-In the future i'll add a Mid-End and a Low-End Version.
+## Specs Used - Mid End
 
-## FPS measurements (High-End) Version
+All the tests were done with this specs:
 
-### Max Settings - [Image](./high_settings.png)
-- Max Settings (32 Chunks Render Distance ,Fancy Graphics, x4 Mipmap Levels, etc...) the game ill around **572 FPS** average. 
-- Max Settings w/ Shaders HIGH (Complementary Reimagined) the game ill around **143 FPS** average  
+- CPU: i5-10400 @ 2.90 GHz
+- GPU: NVIDIA GeForce GTX 1660 Super
+- RAM: 16GB DDR4@ 2666Mhz
+- OS: Windows 10 Pro 64-bit
 
-### Min Settings - [Image](./low_settings.png)
-- Min Settings (8 Chunks Render Distance, Fast Graphics, x0 Mipmap Levels, etc...) the game ill around **1423 FPS** average 
-- Min Settings w/ Shaders HIGH (Complementary Reimagined) the game ill around **268 FPS** average
+## FPS measurements
+
+
