@@ -33,7 +33,7 @@ All the tests were done with this specs:
 
 - High-End: Vanilla Minecraft 1.21.4 - 694 fps 
 - High-End: Modded Minecraft 1.21.4 - 1404 fps (**+102%**)
-[Image](./Low_HighEnd.png)
+[Image](./Low_HighEnd.jpg)
 - Mid-End: Vanilla Minecraft 1.21.4 - 288 fps 
 - Mid-End: Modded Minecraft 1.21.4 - 608 fps (**+111%**)
 [Image](./Low_MidEnd.png)
@@ -45,7 +45,7 @@ All the tests were done with this specs:
 
 - High-End: Vanilla Minecraft 1.21.4 - 296 fps
 - High-End: Modded Minecraft 1.21.4 - 537 fps (**+81%**)
-  [Image](./High_HighEnd.png)
+  [Image](./High_HighEnd.jpg)
 - Mid-End: Vanilla Minecraft 1.21.4 - 128 fps
 - Mid-End: Modded Minecraft 1.21.4 - 187 fps (**+46%**)
   [Image](./High_MidEnd.png)
