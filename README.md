@@ -17,6 +17,6 @@ In the future i'll add a Mid-End and a Low-End Version.
 - Max Settings (32 Chunks Render Distance ,Fancy Graphics, x4 Mipmap Levels, etc...) the game ill around **572 FPS** average. 
 - Max Settings w/ Shaders HIGH (Complementary Reimagined) the game ill around **143 FPS** average  
 
-## Min Settings - [Image](./low_settings.png)
+### Min Settings - [Image](./low_settings.png)
 - Min Settings (8 Chunks Render Distance, Fast Graphics, x0 Mipmap Levels, etc...) the game ill around **1423 FPS** average 
 - Min Settings w/ Shaders HIGH (Complementary Reimagined) the game ill around **268 FPS** average
