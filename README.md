@@ -20,6 +20,8 @@ All the tests were done with this specs:
 
 ## Specs Used - Low End
 
+All the tests were done with this specs:
+
 - CPU: Ryzen 3 3200G
 - GPU: AMD Radeon(TM) Vega 8
 - RAM: 16GB DDR4 @ 2667Mhz
@@ -31,10 +33,10 @@ All the tests were done with this specs:
 
 - High-End: Vanilla Minecraft 1.21.4 - 694 fps 
 - High-End: Modded Minecraft 1.21.4 - 1404 fps (**+102%**)
-  
+[Image](./Low_HighEnd.png)
 - Mid-End: Vanilla Minecraft 1.21.4 - 288 fps 
 - Mid-End: Modded Minecraft 1.21.4 - 608 fps (**+111%**)
-
+[Image](./Low_MidEnd.png)
 
 - Low-End: Vanilla Minecraft 1.21.4 -
 - Low-End:
@@ -43,10 +45,10 @@ All the tests were done with this specs:
 
 - High-End: Vanilla Minecraft 1.21.4 - 296 fps
 - High-End: Modded Minecraft 1.21.4 - 537 fps (**+81%**)
-  
+  [Image](./High_HighEnd.png)
 - Mid-End: Vanilla Minecraft 1.21.4 - 128 fps
 - Mid-End: Modded Minecraft 1.21.4 - 187 fps (**+46%**)
-  
+  [Image](./High_MidEnd.png)
 - Low-End: Vanilla Minecraft 1.21.4 -
 - Low-End: Modded Minecraft 1.21.4 -
 
