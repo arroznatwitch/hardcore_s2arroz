@@ -22,7 +22,7 @@ All the tests were done with this specs:
 
 All the tests were done with this specs:
 
-- CPU: Ryzen 3 3200G
+- CPU: Ryzen 3 3200G @ 3.60 GHz
 - GPU: AMD Radeon(TM) Vega 8
 - RAM: 16GB DDR4 @ 2667Mhz
 - OS: Windows 11 Pro 64-bit
