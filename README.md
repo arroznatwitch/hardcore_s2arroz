@@ -19,7 +19,7 @@ All the tests were done with this specs:
 ### High Settings (32 Chunks, Fancy Settings)
 
 - Vanilla Minecraft 1.21.4 - 77 FPS
-- Modded Minecraft 1.21.4 - 315 FPS (**+312%** ) [Image](./High.png)
+- Modded Minecraft 1.21.4 - 315 FPS ( **+312%** ) [Image](./High.png)
 
 
 
