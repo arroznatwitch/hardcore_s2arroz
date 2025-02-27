@@ -6,7 +6,7 @@ All the tests were done with this specs:
 
 - CPU: Ryzen 7 5700X @ 4.60GHz
 - GPU: NVIDIA GeForce RTX 4070 Super
-- RAM: 32GB DDR4 @ 240MHz
+- RAM: 32GB DDR4 @ 2400MHz
 - OS: Windows 11 Pro 64-bit
 
 
